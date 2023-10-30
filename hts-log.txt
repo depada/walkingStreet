@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Oct 2023 20:34:10 at https://en.labarraca.nl/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://en.labarraca.nl/ -O1 "C:\Users\kolip\Documents\Websites_Copy\walkingStreet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:34:11	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/robots.txt (from primary/primary)
+20:34:34	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54e165b2373356cc89a83_La baraca Potato-HD 1080p (1 (from https://en.labarraca.nl/)
+20:34:34	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54d8645c6ae311a1261b2_IMG_4448-poster-00001.jpg" (from https://en.labarraca.nl/)
+20:34:34	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/barracanet (from https://en.labarraca.nl/)
+20:34:34	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:34:34	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:34:34	Warning: 	Moved Permanently for https://en.labarraca.nl/schema.org/
+20:34:34	Warning: 	File has moved from https://en.labarraca.nl/schema.org/ to https://en.labarraca.nl/schema.org
+20:34:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:34:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:34:35	Warning: 	Retry after error 502 () at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54e165b2373356cc89a83_La baraca Potato-HD 1080p (1 (from https://en.labarraca.nl/)
+20:34:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54d8645c6ae311a1261b2_IMG_4448-poster-00001.jpg" (from https://en.labarraca.nl/)
+20:35:01	Warning: 	Retry after error 502 () at link https://en.labarraca.nl/barracanet (from https://en.labarraca.nl/)
+20:35:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:35:33	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:35:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/schema.org (from https://en.labarraca.nl/schema.org/)
+20:35:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:35:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://en.labarraca.nl/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:36:03	Error: 	"" (502) after 2 retries at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54e165b2373356cc89a83_La baraca Potato-HD 1080p (1 (from https://en.labarraca.nl/)
+20:36:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/"https://assets-global.website-files.com/61f53606a22f7e1a572993f6/61f54d8645c6ae311a1261b2_IMG_4448-poster-00001.jpg" (from https://en.labarraca.nl/)
+20:36:03	Error: 	"" (502) after 2 retries at link https://en.labarraca.nl/barracanet (from https://en.labarraca.nl/)
+20:36:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:36:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:36:03	Warning: 	Retry after error 502 () at link https://en.labarraca.nl/schema.org (from https://en.labarraca.nl/schema.org/)
+20:36:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:36:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://en.labarraca.nl/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:36:03	Error: 	"" (502) after 2 retries at link https://en.labarraca.nl/schema.org (from https://en.labarraca.nl/schema.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 53 seconds : 41 links scanned, 15 files written (7601642 bytes overall) [6210709 bytes received at 54962 bytes/sec], 1910118 bytes transferred using HTTP compression in 9 files, ratio 25%, 1.7 requests per connection
+(9 errors, 18 warnings, 0 messages)
